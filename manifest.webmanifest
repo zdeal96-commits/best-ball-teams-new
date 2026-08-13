@@ -1,7 +1,7 @@
 {
-  "name": "Best Ball Teams",
+  "name": "Best Ball Pairing Scorecards",
   "short_name": "Best Ball",
-  "description": "Create every two-player best-ball pairing from an 18-hole scorecard CSV.",
+  "description": "Create every two-player best-ball pairing and share an individual scorecard.",
   "id": "./",
   "start_url": "./",
   "scope": "./",
